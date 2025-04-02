@@ -1,5 +1,3 @@
-Segue abaixo um exemplo de **README** em português para o projeto utilizando Arduino UNO, sensor PIR e LED. Você pode adaptar conforme suas necessidades.
-
 ---
 
 # Projeto: Detecção de Movimento com Sensor PIR e Acionamento de LED
@@ -105,5 +103,3 @@ void loop() {
 Este projeto está disponível sob a licença de sua preferência (MIT, GPL, etc.). Sinta-se à vontade para usar, modificar e distribuir o código conforme necessário.
 
 --- 
-
-**Esperamos que este README seja útil para o seu projeto!**
